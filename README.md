@@ -1,6 +1,6 @@
 # TMIM
 
-Original file is located at: [https://colab.research.google.com/drive/1dOUBf3U9em8sS3OEVnphZkA0JIxtX6Za] (run each cell before testing it out!)
+Original file is located at: [https://colab.research.google.com/drive/1dOUBf3U9em8sS3OEVnphZkA0JIxtX6Za] (click "run anyway" if you get a pop up, and run each cell before testing it out!)
 
 TMIM (Too Much Information Movies)
 
