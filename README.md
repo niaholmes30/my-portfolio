@@ -46,4 +46,5 @@ Wireframes: [https://www.figma.com/design/CbHdqVLMIdfWncDQoH2W5y/Assignment-5?no
 I am a self-taught video editor of 4 years who uses Video Star (A mobile app for Apple devices). I make creative, expressive video edits and post them to a "Fan Page" I manage on TikTok and Instagram. This is something I like to do on my free time for fun, and I like to expirement with different styles and transitions. 
 
 TikTok Edit Account: [www.tiktok.com/@theromanticized] 
+
 Instagram Edit Account: [https://www.instagram.com/theromanticizedd?igsh=ZGNlc2R1OWpteGQ2&utm_source=qr]
