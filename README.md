@@ -35,7 +35,7 @@ Link to my medium profile: [https://medium.com/@niaholme]
 
 For a class project, we were given a client (Atomic Object) who wanted us to create a mobile app that gives users a VIP user experience at Detroit Tigers games.
 
-Design Brief: ]https://drive.google.com/file/d/1i_4X__L4-bBIprI5UWNvdeNnKf1Sq-rT/view]
+Design Brief: [https://drive.google.com/file/d/1i_4X__L4-bBIprI5UWNvdeNnKf1Sq-rT/view]
 
 This class focused on using AI etically with UX design, so I was able to create a wireframes of the app in Figma using differnt AI tools along with my own creative touch. My final wireframe designs will be posted to my Medium.
 
