@@ -50,3 +50,7 @@ TikTok Edit Account: [www.tiktok.com/@theromanticized]
 Instagram Edit Account: [https://www.instagram.com/theromanticizedd?igsh=ZGNlc2R1OWpteGQ2&utm_source=qr]
 
 # External Github Links
+
+Client Project; Website for the School of Information (class project): [https://github.com/niaholmes/client_project_w25]
+
+Python project (TMIM) expanded: [https://github.com/niaholmes/final] - PLEASE do NOT abuse my API Key.
