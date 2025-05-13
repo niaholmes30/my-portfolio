@@ -25,9 +25,9 @@ I was able to create both infographics using Canva and Sketchbook-Auto Desk
 UX Design V.S. UI Design Infographic:
 I used Canva to create everything except for the visual at the bottom, which I digitally drew in Sketchbook-Auto Desk.
 
-# Medium Article
+# Medium Articles
 
-For a class project, I puplished an article to Medium describing principles UX designers should have when using AI for their work.
+For a class project, I puplished 2 articles to Medium describing principles UX designers should have when using AI for their work, and my process in using AI to develop wireframes.
 
 Link to my medium profile: [https://medium.com/@niaholme]
 
@@ -39,7 +39,7 @@ Design Brief: [https://drive.google.com/file/d/1i_4X__L4-bBIprI5UWNvdeNnKf1Sq-rT
 
 This class focused on using AI etically with UX design, so I was able to create a wireframes of the app in Figma using differnt AI tools along with my own creative touch. My final wireframe designs will be posted to my Medium.
 
-Wireframes: [https://www.figma.com/design/CbHdqVLMIdfWncDQoH2W5y/Assignment-5?node-id=2016-936&t=TFng23tMtosqUzuL-1]
+Wireframes: [https://www.figma.com/design/CbHdqVLMIdfWncDQoH2W5y/Assignment-5?node-id=2016-936&t=TFng23tMtosqUzuL-1] , [https://www.figma.com/proto/CbHdqVLMIdfWncDQoH2W5y/Assignment-6---Page-3?node-id=2062-2&t=N9300u3ETMkCwJDx-1]
 
 # Video Editing
 
@@ -48,3 +48,5 @@ I am a self-taught video editor of 4 years who uses Video Star (A mobile app for
 TikTok Edit Account: [www.tiktok.com/@theromanticized] 
 
 Instagram Edit Account: [https://www.instagram.com/theromanticizedd?igsh=ZGNlc2R1OWpteGQ2&utm_source=qr]
+
+# External Github Links
